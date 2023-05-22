@@ -1,0 +1,393 @@
+body{
+
+}
+.button-block-1{
+    width: 630px;
+    height: 300px;
+    margin: 30px 0px 0px 400px;
+    padding: 15px 30px;
+    box-sizing: border-box;
+}
+.button-block-2{
+    width: 300px;
+    height: 300px;
+    margin: -300px 0px 0px 1010px;
+    padding: 15px 30px;
+    box-sizing: border-box;
+}
+.button-block-3{
+    width: 250px;
+    height: 300px;
+    margin: -70px 0px 5px 400px;
+    /*background-color: grey;*/
+    padding: 15px 20px;
+    box-sizing: border-box;
+}
+.button-block-4{
+    width: 300px;
+    height: 300px;
+    margin: -305px 0px 5px 625px;
+    /*background-color: grey;*/
+    padding: 15px 5px;
+    box-sizing: border-box;
+}
+.button-block-5{
+    width: 300px;
+    height: 300px;
+    margin: -305px 0px 5px 835px;
+    /* background-color: grey;*/
+    padding: 15px 5px;
+    box-sizing: border-box;
+}
+.button-block-6{
+    width: 300px;
+    height: 300px;
+    margin: -305px 0px 5px 1045px;
+    /*background-color: grey;*/
+    padding: 15px 5px;
+    box-sizing: border-box;
+}
+
+
+
+.button-item-1{
+    width: 200px;
+    height: 40px;
+    color: white;
+    background-color: forestgreen;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 60px 20px 10px 20px;
+    display: inline-block;
+    text-align: center;
+}
+.button-item-2{
+    width: 200px;
+    height: 40px;
+    color: white;
+    background-color: seagreen;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 20px;
+    display: inline-block;
+    text-align: center;
+}
+.button-item-3{
+    width: 200px;
+    height: 40px;
+    color: white;
+    background-color: green;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 20px;
+    display: inline-block;
+    text-align: center;
+}
+
+
+.button-item-4{
+    width: 300px;
+    height: 90px;
+    margin-left: 300px;
+    margin-top: -120px;
+    background-color: white;
+}
+
+
+.button-item-5{
+    width: 200px;
+    height: 40px;
+    color: white;
+    background-color: dodgerblue;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    margin: 58px 15px 10px 15px;
+}
+.button-item-6{
+    width: 200px;
+    height: 40px;
+    color: white;
+    background-color: cornflowerblue;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    margin: 10px 15px;
+}
+.button-item-7{
+    width: 200px;
+    height: 40px;
+    color: white;
+    background-color: royalblue;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 15px;
+    display: inline-block;
+    text-align: center;
+}
+
+
+.button-item-8{
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    background-color: whitesmoke;
+    color: lightgray;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 15px;
+    text-align: left;
+}
+.button-item-9{
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    background-color: whitesmoke;
+    color: lightgray;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 15px;
+    text-align: left;
+}
+.button-item-10{
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    background-color: whitesmoke;
+    color: lightgray;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 15px;
+    text-align: left;
+}
+.button-item-11{
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    background-color: whitesmoke;
+    color: lightgray;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 15px;
+    text-align: left;
+}
+
+
+.button-item-12{
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    color: darkgrey;
+    border: 1px solid lightgray;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 15px;
+    text-align: left;
+    border-radius: 5px;
+}
+.button-item-13{
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    color: darkgray;
+    border: 1px solid lightgray;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 15px;
+    text-align: left;
+    border-radius: 5px;
+}
+.button-item-14{
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    color: darkgray;
+    border: 1px solid lightgray;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 15px;
+    text-align: left;
+    border-radius: 5px;
+}
+.button-item-15{
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    color: darkgray;
+    border: 1px solid lightgray;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 15px;
+    text-align: left;
+    border-radius: 5px;
+}
+
+.button-item-16{
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    color: grey;
+    border: 1px solid lightgray;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 15px;
+    text-align: left;
+    border-radius: 5px;
+}
+.button-item-17{
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    color: grey;
+    border: 1px solid lightgray;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 15px;
+    text-align: left;
+    border-radius: 5px;
+}
+.button-item-18{
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    border: 2px solid lightgray;
+    color: grey;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 15px;
+    text-align: left;
+    border-radius: 5px;
+}
+.button-item-19{
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    border: 1px solid lightgray;
+    color: grey;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 15px;
+    text-align: left;
+    border-radius: 5px;
+}
+
+.button-item-20{
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    border: 1px solid #248f91;
+    color: black;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 15px;
+    text-align: left;
+    border-radius: 5px;
+}
+.button-item-21{
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    border: 1px solid #248f91;
+    color: black;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 15px;
+    text-align: left;
+    border-radius: 5px;
+}
+.button-item-22{
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    border: 1px solid #248f91;
+    color: black;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 15px;
+    text-align: left;
+    border-radius: 5px;
+}
+.button-item-23{
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    border: 1px solid #248f91;
+    color: black;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px 15px;
+    text-align: left;
+    border-radius: 5px;
+}
+img{
+    width: 300px;
+    height: 150px;
+}

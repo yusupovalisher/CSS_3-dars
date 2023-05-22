@@ -1,0 +1,41 @@
+body{
+background-color: white;
+}
+.wrap{
+    width: 1200px;
+    margin: 50px auto;
+    padding: 15px 25px;
+}
+.btn{
+    width: 300px;
+    text-align: center;
+    padding: 50px 70px;
+    box-sizing: border-box;
+    float: left;
+    margin: 0 40px;
+}
+.btn-2{
+    width: 400px;
+    border: 1px solid #e8e8e8;
+    border-radius: 55px;
+    border-bottom-width: 10px;
+    border-right-width: 10px;
+    border-right-color: #d2d2d2;
+    border-bottom-color: #d2d2d2;
+    padding: 50px 70px;
+    box-sizing: border-box;
+    float: left;
+    margin: 0 30px;
+}
+img{
+    width: 300px;
+    height: 200px;
+}
+.clear{
+    clear: both;
+}
+h1{
+    margin: 10px auto;
+    padding: 25px 80px;
+    color: #808080;
+}

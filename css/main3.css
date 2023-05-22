@@ -1,0 +1,407 @@
+body{
+    background-color: antiquewhite;
+}
+.wrap-1{
+    width: 1100px;
+    height: 100px;
+    background-color: antiquewhite;
+    margin: 7px auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.btn-11{
+    width: 16%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: dodgerblue;
+    border-color: dodgerblue;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 5px 2px;
+}
+.btn-12{
+    width: 16%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: mediumseagreen;
+    border-color: mediumseagreen;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 5px 2px;
+}
+.btn-13{
+    width: 8%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: lightskyblue;
+    border-color: lightskyblue;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 5px 2px;
+}
+.btn-14{
+    width: 16%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: goldenrod;
+    border-color: goldenrod;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 5px 2px;
+}
+.btn-15{
+    width: 16%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    border-color: tomato;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 5px 3px;
+}
+
+.wrap-2{
+    width: 1100px;
+    height: 100px;
+    background-color: antiquewhite;
+    margin: 10px auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.btn-21{
+    width: 16%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: dodgerblue;
+    background-color: antiquewhite;
+    border-color: dodgerblue;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 4px;
+    text-align: center;
+    margin: 7px 2px;
+}
+.btn-22{
+    width: 16%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: mediumseagreen;
+    background-color: antiquewhite;
+    border-color: mediumseagreen;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 4px;
+    text-align: center;
+    margin: 7px 2px;
+}
+.btn-23 {
+    width: 8%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: lightskyblue;
+    background-color: antiquewhite;
+    border-color: lightskyblue;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 4px;
+    text-align: center;
+    margin: 7px 2px;
+}
+.btn-24 {
+    width: 16%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: goldenrod;
+    background-color: antiquewhite;
+    border-color: goldenrod;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 4px;
+    text-align: center;
+    margin: 7px 2px;
+}
+.btn-25{
+    width: 16%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: tomato;
+    background-color: antiquewhite;
+    border-color: tomato;
+    border-width: 2px;
+    border-style: solid;
+    border-radius:4px;
+    text-align: center;
+    margin: 7px 2px;
+}
+
+.wrap-3{
+    width: 1100px;
+    height: 100px;
+    background-color: antiquewhite;
+    margin: 10px auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.btn-31{
+    width: 16%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: dodgerblue;
+    border-color: dodgerblue;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 7px 2px;
+    border-radius: 4px;
+}
+.btn-32{
+    width: 16%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: mediumseagreen;
+    border-color: mediumseagreen;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 7px 2px;
+    border-radius: 4px;
+}
+.btn-33{
+    width: 8%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: lightskyblue;
+    border-color: lightskyblue;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 7px 2px;
+    border-radius: 4px;
+}
+.btn-34{
+    width: 16%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: goldenrod;
+    border-color: goldenrod;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 7px 2px;
+    border-radius: 4px;
+}
+.btn-35{
+    width: 16%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    border-color: tomato;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 7px 3px;
+    border-radius: 4px;
+}
+
+.wrap-4{
+    width: 1100px;
+    height: 100px;
+    background-color: antiquewhite;
+    margin: 10px auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.btn-41{
+    width: 16%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: dodgerblue;
+    border-color: dodgerblue;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 7px 2px;
+    border-radius: 25px;
+}
+.btn-42{
+    width: 16%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: mediumseagreen;
+    border-color: mediumseagreen;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 7px 2px;
+    border-radius: 25px;
+}
+.btn-43{
+    width: 8%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: lightskyblue;
+    border-color: lightskyblue;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 7px 2px;
+    border-radius: 25px;
+}
+.btn-44{
+    width: 16%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: goldenrod;
+    border-color: goldenrod;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 7px 2px;
+    border-radius: 25px;
+}
+.btn-45{
+    width: 16%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    border-color: tomato;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 7px 3px;
+    border-radius: 25px;
+}
+
+.wrap-5{
+    width: 1100px;
+    height: 100px;
+    background-color: antiquewhite;
+    margin: 10px auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.btn-51{
+    width: 16%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: dodgerblue;
+    border-color: dodgerblue;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 7px 2px;
+    border-radius: 4px;
+}
+.btn-52{
+    width: 16%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: mediumseagreen;
+    border-color: mediumseagreen;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 7px 2px;
+    border-radius: 4px;
+}
+.btn-53{
+    width: 8%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: lightskyblue;
+    border-color: lightskyblue;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 7px 2px;
+    border-radius: 4px;
+}
+.btn-54{
+    width: 16%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: goldenrod;
+    border-color: goldenrod;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 7px 2px;
+    border-radius: 4px;
+}
+.btn-55{
+    width: 16%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    border-color: tomato;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    margin: 7px 3px;
+    border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+

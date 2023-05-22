@@ -1,0 +1,106 @@
+body{
+    background-color: midnightblue;
+}
+.wrap-1{
+    width: 800px;
+    height: 100px;
+    background-color: midnightblue;
+    margin: 10px auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.btn-1{
+    width: 17%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: red;
+    background-color: midnightblue;
+    border-color: red;
+    border-width: 2px;
+    border-style: solid;
+    transition: all 2s ease-in;
+    border-radius: 10px;
+    text-align: center;
+    margin: 15px 40px;
+}
+.btn-2{
+    background-image: url("../rasmlar/5.jpg");
+    width: 17%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: darkgreen;
+    border-color: darkgreen;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 30px;
+    text-align: center;
+    margin: 15px 37px 15px 40px;
+}
+.btn-3{
+    width: 17%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: cornflowerblue;
+    border-color: cornflowerblue;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 15px 40px;
+}
+.wrap-2 {
+    width: 800px;
+    height: 100px;
+    background-color: midnightblue;
+    margin: 10px auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.btn-4{
+    width: 17%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: gold;
+    border-color: gold;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    text-align: center;
+    margin: 15px 37px 15px 40px;
+}
+.btn-5{
+    width: 17%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: mediumorchid;
+    background-color: midnightblue;
+    border-color: mediumorchid;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    text-align: center;
+    margin: 15px 40px;
+}
+.btn-6{
+    width: 17%;
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: limegreen;
+    background-color: midnightblue;
+    border-color: limegreen;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 30px;
+    text-align: center;
+    margin: 15px 40px;
+}
+
